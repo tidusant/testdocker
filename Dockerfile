@@ -1,9 +1,4 @@
-ARG VERSION=latest
-
-
-
-
-FROM microsoft/aspnetcore-build:lts
+from microsoft/aspnetcore-build:lts
 #RUN echo $VERSION
 #ARG VERSION=latest2
 #RUN echo $VERSION
