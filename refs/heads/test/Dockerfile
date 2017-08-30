@@ -25,5 +25,5 @@ RUN ["ls"]
 RUN ["ls","/app"]
 #RUN ["ls","obj/Release/netcoreapp1.1"]
 #RUN ["ls","/app/bin/Release/netcoreapp1.1/"]
-
+ENV MYENV="test branch"
 ENTRYPOINT ["dotnet", "testdocker.dll"]
