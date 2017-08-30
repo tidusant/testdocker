@@ -1,1 +1,2 @@
 tidusant/testautobuild
+http://18.220.243.173:8080/
