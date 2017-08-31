@@ -1,2 +1,2 @@
 tidusant/testautobuil
-http://18.220.243.173:8080/
+http://13.58.204.161:8080/
